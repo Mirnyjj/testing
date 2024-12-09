@@ -13,7 +13,7 @@ gallery films- это приложение для поиска фильмов с
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/Mirnyjj/testing.github.io
+   git clone https://github.com/Mirnyjj/testing
    cd gallery-films
 
    ```

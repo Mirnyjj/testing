@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = 'VH0VDBF-WH1427S-NCM6DGK-BCKRVA3';
+const apiKey = import.meta.env.VITE_API_KEY;
 
 const BASE_URL = 'https://api.kinopoisk.dev/v1.4/movie';
 
